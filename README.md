@@ -1,5 +1,5 @@
 # **Cyclistic Case Study** 
-This case study is about a company Cyclistic, a bike-sharing company in Chicago. The director of marketing believes the company’s future success depends on maximizing the number of annual memberships. My job is to analyse the scenario and produce a report on how casual riders and annual members use cyclistic bikes differently. I used recent twelve month data to analyse the scenario.
+This case study is about a company Cyclistic, a bike-sharing company in Chicago. The director of marketing believes the company’s future success depends on maximizing the number of annual memberships. My job is to analyse the report on how casual riders and annual members use cyclistic bikes differently and suggest some recommendations to increase annual members.
 
 ## **Links**
 + [**Data**](https://github.com/loghasuha/cyclistic/tree/main/data) - 12 months csv file
